@@ -1,5 +1,5 @@
 # Python101
-*Learning Python at my own pace.*
+***Learning Python at my own pace.***
 
 Welcome to Python101 — a personal project where I document my journey of learning Python.
 This repository will include practice exercises, small projects, notes, and experiments as I gradually build my Python skills.
